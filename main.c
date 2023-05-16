@@ -6,5 +6,7 @@ int main(){
     print();
     print();
     printf("Added by User 2!\n");
+
+    print();
     return 0;
 }
