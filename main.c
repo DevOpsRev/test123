@@ -13,5 +13,7 @@ int main(){
 
     printf("Added some functionality before User 2 adds!!\n");
     drawBoat();
+
+    printf("Added Functionality By User 2!!");
     return 0;
 }
