@@ -8,5 +8,6 @@ int main(){
     printf("Added by User 2!\n");
 
     print();
+    print();
     return 0;
 }
