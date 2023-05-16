@@ -1,6 +1,7 @@
 #include "header/funcs.h"
 #include <stdio.h>
 #include "boat.c"
+#include "demo.c"
 
 int main(){
     printf("This is the initial Commit !! \n");
@@ -16,5 +17,7 @@ int main(){
 
     printf("Added Functionality By User 2!!");
     printf("Added More Features By User 1!!\n");
+
+    run();
     return 0;
 }
