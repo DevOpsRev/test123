@@ -9,5 +9,7 @@ int main(){
 
     print();
     print();
+
+    printf("Added some functionality before User 2 adds!!\n");
     return 0;
 }
