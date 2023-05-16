@@ -15,5 +15,6 @@ int main(){
     drawBoat();
 
     printf("Added Functionality By User 2!!");
+    printf("Added More Features By User 1!!\n");
     return 0;
 }
